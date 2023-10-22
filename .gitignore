@@ -3,3 +3,7 @@
 /testFiles/
 /ignore/
 *.code-workspace
+.idea/
+.vscode/
+.gradle/
+build/
